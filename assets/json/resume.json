@@ -5,23 +5,6 @@
     "image": "",
     "email": "omar.ahmed@daad-alumni.de",
     "phone": "(49) 17647700888",
-#    "url": "https://alshedivat.github.io/al-folio/",
-#    "summary": "A Iraq-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-#    "location": {
-#      "address": "2712 Broadway St",
-#      "postalCode": "CA 94115",
-#      "city": "San Francisco",
-#      "countryCode": "US",
-#      "region": "California"
-#    },
-#    "profiles": [
-#      {
-#        "network": "Twitter",
-#        "username": "AlbertEinstein",
-#        "url": "https://twitter.com/AlbertEinstein"
-#      }
-#    ]
-#  },
   "work": [
     {
       "name": "ZF Friedrichshafen AG",
@@ -54,17 +37,6 @@
       "highlights": ["Mobile Communications Technologies, GSM-R, UMTS, LTE-R, 5G"]
     }
   ],
-#  "volunteer": [
-#    {
-#      "organization": "People's Climate March",
-#      "position": "Lead Organizer",
-#      "url": "https://example.com",
-#      "startDate": "2014-04-01",
-#      "endDate": "2015-07-01",
-#      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-#      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-#    }
-#  ],
   "education": [
     {
       "institution": "University of Paderborn",
@@ -74,7 +46,6 @@
       "studyType": "PhD",
       "startDate": "2011-01-02",
       "endDate": "2015-06-10",
-#      "score": "10",
       "Thesis Title": ["Implementation and Simulation Study of Coherent Optical Orthogonal Frequency-Division Multiplexing Systems"]
     }
   ],
