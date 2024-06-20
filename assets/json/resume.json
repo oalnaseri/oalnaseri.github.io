@@ -4,7 +4,16 @@
     "label": "Scientist",
     "image": "",
     "email": "omar.ahmed@daad-alumni.de",
+    "phone": "",
+    "url": "",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [
     {
