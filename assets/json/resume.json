@@ -41,16 +41,48 @@
       "endDate": "2018",
       "summary": "Technical product lead for telecommunication products",
       "highlights": ["Mobile Communications Technologies, GSM-R, UMTS, LTE-R, 5G"]
+    },   
+    {
+      "name": "Zain Telecom Iraq",
+      "position": "Senior telecommunication Engineer",
+      "url": "https://www.iq.zain.com/en",
+      "startDate": "2005",
+      "endDate": "2008",
+      "summary": "",
+      "highlights": ["Mobile Communications Technologies, GSM, UMTS"]
     }
   ],
   "education": [
     {
-      "institution": "University of Paderborn",
-      "location": "Paderborn, Germany",
+      "institution": "University of Paderborn, Paderborn, Germany",
+      "location": "",
       "url": "https://www.uni-paderborn.de/en/",
-      "area": "ptical Communication and High Frequency Engineering",
+      "area": "Optical Communication and High Frequency Engineering",
       "studyType": "PhD",
-      "date": "2015",
+      "startDate": "2011",
+	  "endDate": "2015",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "University of Technology, Baghdad, Iraq",
+      "location": "",
+      "url": "https://uotechnology.edu.iq/",
+      "area": "Electronic Engineering",
+      "studyType": "MSc",
+      "startDate": "2001",
+	  "endDate": "2003",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "University of Technology, Baghdad, Iraq",
+      "location": "",
+      "url": "https://uotechnology.edu.iq/",
+      "area": "Electronic and Communications Engineering",
+      "studyType": "BSc",
+      "startDate": "1996",
+	  "endDate": "2000",
       "score": "",
       "courses": ""
     }
@@ -62,65 +94,6 @@
       "awarder": "German Academic Exchange Service",
       "url": "https://www.daad.de/en/",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
@@ -160,21 +133,4 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": "",
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    }
-  ]
 }
