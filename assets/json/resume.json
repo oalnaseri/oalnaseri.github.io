@@ -32,7 +32,7 @@
       "endDate": "now",
       "summary": "Teaching at Electrical Engineering Department",
       "highlights": ["Communications Systems Design"],
-	  "highlights": ["Network Architecture (Next Generation Networks, Mobile communications)"]
+	  "highlights1": ["Network Architecture (Next Generation Networks, Mobile communications)"]
     }
   ],
   "education": [
