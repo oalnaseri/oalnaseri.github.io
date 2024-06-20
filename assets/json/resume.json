@@ -20,7 +20,7 @@
       "name": "ZF Friedrichshafen AG",
       "position": "System Architect",
       "url": "https://www.zf.com/mobile/en/homepage/homepage.html",
-      "startDate": "2018-07-01",
+      "startDate": "2018",
       "endDate": "now",
       "summary": "Developing High-Performance ECU for Autonomous cars/autonomous passenger transport/commercial vehicle"
     },
@@ -28,7 +28,7 @@
       "name": "DHBW Ravensburg University",
       "position": "Guest Lecturer",
       "url": "https://www.ravensburg.dhbw.de/startseite",
-      "startDate": "2019-10-01",
+      "startDate": "2019",
       "endDate": "now",
       "summary": "Teaching at Electrical Engineering Department",
       "highlights": ["Teaching different courses, supervising Bachelor Thesis"]
@@ -37,8 +37,8 @@
       "name": "WINGcon AG",
       "position": "Technical Product Manager",
       "url": "https://wingcon.com/en/",
-      "startDate": "2014-09-09",
-      "endDate": "2018-6.30",
+      "startDate": "2013",
+      "endDate": "2018",
       "summary": "Technical product lead for telecommunication products",
       "highlights": ["Mobile Communications Technologies, GSM-R, UMTS, LTE-R, 5G"]
     }
@@ -50,19 +50,19 @@
       "url": "https://www.uni-paderborn.de/en/",
       "area": "ptical Communication and High Frequency Engineering",
       "studyType": "PhD",
-      "startDate": "2011-01-02",
-      "endDate": "2015-06-10",
+      "startDate": "2015",
+      "endDate": "",
       "score": "",
       "courses": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "DAAD Scholarship",
+      "date": "2009.06",
+      "awarder": "German Academic Exchange Service",
+      "url": "https://www.daad.de/en/",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -111,25 +111,11 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
@@ -149,7 +135,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Arabis",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -157,42 +143,48 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Fiber Optical Communications",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Coherent optical communications",
+        "Laser Phase Noise",
+        "Fiber Nonlinearities",
+        "CO-OFDM"
+      ]
+    },
+	{
+      "name": "Deep Learning Algorithms",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "End-to-end learning algorithms",
+        "Autoencoder"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "",
+      "icon": "",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": "",
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
