@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Omar H. A. Alnaseri",
-    "label": "Scientist",
+    "label": "Ph.D. in Optical Communication and High-frequency Engineering",
     "image": "",
     "email": "omar.ahmed@daad-alumni.de",
     "phone": "",
@@ -9,21 +9,42 @@
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "ZF Friedrichshafen AG",
+      "position": "System Architect",
+      "url": "https://www.zf.com/mobile/en/homepage/homepage.html",
+      "startDate": "2018-07-01",
+      "endDate": "now",
+      "summary": "Developing High-Performance ECU for Autonomous cars/autonomous passenger transport/commercial vehicle,.",
+    },  
+    {
+      "name": "DHBW Ravensburg University",
+      "position": "Guest Lecturer",
+      "url": "https://www.ravensburg.dhbw.de/startseite",
+      "startDate": "2019-10-01",
+      "endDate": "now",
+      "summary": "Teaching at Electrical Engineering Department the following courses",
+      "highlights": ["Communications Systems Design"]
+	  "highlights": ["Network Architecture (Next Generation Networks, Mobile communications)"]
+	  "highlights": ["Network Management (SNMP, Netconf)"]
+	  "highlights": ["Real-Time Embedded Systems"]
+	  "highlights": ["Real-Time Operation Systems"]
+    },   
+    {
+      "name": "WINGcon AG",
+      "position": "Technical Product Manager",
+      "url": "https://wingcon.com/en/",
+      "startDate": "2014-09-09",
+      "endDate": "2018-6.30",
+      "summary": "Technical product lead for telecommunication products",
+      "highlights": ["Mobile Communications Technologies, GSM-R, UMTS, LTE-R, 5G"]
     }
   ],
   "volunteer": [
