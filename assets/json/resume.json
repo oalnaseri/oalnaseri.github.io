@@ -32,10 +32,6 @@
       "endDate": "now",
       "summary": "Teaching at Electrical Engineering Department the following courses",
       "highlights": ["Communications Systems Design"],
-	  "highlights": ["Network Architecture (Next Generation Networks, Mobile communications)"],
-	  "highlights": ["Network Management (SNMP, Netconf)"],
-	  "highlights": ["Real-Time Embedded Systems"],
-	  "highlights": ["Real-Time Operation Systems"]
     },   
     {
       "name": "WINGcon AG",
