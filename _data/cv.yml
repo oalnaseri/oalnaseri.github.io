@@ -15,24 +15,18 @@
       institution: University of Paderborn, Paderborn, Germany
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Thesis Title: "Implementation and Simulation Study of Coherent Optical Orthogonal Frequency-Division Multiplexing Systems"
+        - Link: https://core.ac.uk/download/pdf/50519523.pdf
     - title: MSc
       institution: University of Technology, Bagdad, Iraq
       year: 2003
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis Title: "Design of Virtual Private Network"
     - title: BSc
       institution: University of Technology, Bagdad, Iraq
       year: 2000
       description:
-        - Description 1.
-        - Description 2.
+        - Graduate Project Title: "Design of Microstrip Antenna"
 
 - title: Experience
   type: time_table
@@ -41,24 +35,19 @@
       institution: ZF Friedrichshafen AG, Friedrichshafen, Germany
       year: 2018 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Design High-Performance ECU
     - title: Visiting Professor
       institution: DHBW Ravensburg University, Friedrichshafen, Germany
       year: 2019 - Now
       description:
-        - Description 1.
-        - Description 2.
+        - Teaching courses at Electrical Engineering
+        - Supervising Bachelor Theses
 
     - title: Technical Product Manager
       institution: WINGcon AG, Langenargen, Germany.
       year: 2013-2018
 
-    - title: Senior telecommunication Engineer
+    - title: Senior Telecommunication Engineer
       institution: Zain Telecom Iraq
       year: 2005 - 2008
       description:
