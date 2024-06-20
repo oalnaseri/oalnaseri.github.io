@@ -50,8 +50,7 @@
       "url": "https://www.uni-paderborn.de/en/",
       "area": "ptical Communication and High Frequency Engineering",
       "studyType": "PhD",
-      "startDate": "2015",
-      "endDate": "",
+      "date": "2015",
       "score": "",
       "courses": ""
     }
@@ -59,7 +58,7 @@
   "awards": [
     {
       "title": "DAAD Scholarship",
-      "date": "2009.06",
+      "date": "2009",
       "awarder": "German Academic Exchange Service",
       "url": "https://www.daad.de/en/",
       "summary": ""
@@ -107,15 +106,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
     }
   ],
   "skills": [
