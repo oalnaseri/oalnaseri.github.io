@@ -15,18 +15,17 @@
       institution: University of Paderborn, Paderborn, Germany
       year: 2015
       description:
-        - Thesis Title":" Implementation and Simulation Study of Coherent Optical Orthogonal Frequency-Division Multiplexing Systems
-        - Link. https://core.ac.uk/download/pdf/50519523.pdf
+        - Thesis Title - <a href="https://core.ac.uk/download/pdf/50519523.pdf">Implementation and Simulation Study of Coherent Optical Orthogonal Frequency-Division Multiplexing Systems</a>
     - title: MSc
       institution: University of Technology, Bagdad, Iraq
       year: 2003
       description:
-        - Thesis Title: "Design of Virtual Private Network"
+        - Thesis Title - Design of Virtual Private Network
     - title: BSc
       institution: University of Technology, Bagdad, Iraq
       year: 2000
       description:
-        - Graduate Project Title: "Design of Microstrip Antenna"
+        - Graduate Project Title - Design of Microstrip Antenna 
 
 - title: Experience
   type: time_table
