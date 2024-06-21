@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-selected to Peer-Review for Prestigious <a href="https://www.sciencedirect.com/journal/optics-communications">Optics Communications Journal</a>
+Selected to be a reviewer for Prestigious <a href="https://www.sciencedirect.com/journal/optics-communications">Optics Communications Journal</a>
