@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Submitting several manuscript 
+Submitted several papers as follows:
 - "End-to-End Deep Learning for Nonlinear Phase Noise in Optical Fiber Communications Systems" to the prestigious <a href="https://mecom2024.ieee-mecom.org/">IEEE MECOM 2024</a>.
 - "Recursive Sub-block Phase Rotation for PAPR Reduction in CO-OFDM Transmission,” to the prestigous <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234">IEEE Communication Letter</a>.
 - "PAPR Reduction based on Deep Learning Autoencoder in Coherent Optical OFDM Systems, ” to the <a href="https://icspis.com/">ICSPIS 2024</a>.
