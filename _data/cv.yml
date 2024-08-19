@@ -56,7 +56,10 @@
   contents:
     - year: 2009
       items:
-        - DAAD Scholarship
+        - DAAD Scholarship 
+    - year: 2000
+      items:
+        - ranked 3th out of 87 B.Sc. graduated student at Faculty of Electrical Engineering/University of Technology
 
 - title: Academic Interests
   type: nested_list
