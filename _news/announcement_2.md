@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Elevation to the grade of IEEE Senior member
+Elevation to the grade of IEEE Senior member.
