@@ -2,20 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I taught.
+description: The courses I taught.
 nav: true
 nav_order: 6
 ---
 
-For now, I am teaching the following couses at DHBW Ravensburg in Germany 
+Currently, I am teaching the following courses at DHBW Ravensburg in Germany 
 
-1) Communication systems design    
+1) Designe of communication systems     
   
-2) Mobile Communications
+2) Mobile communications
   
-3) Network Architecture (NGN, Core Networks)  
+3) Network Architecture (including NGN, Core Networks)  
   
-4) Network Managements (SNMP, Netconf)  
+4) Network Managements (focusing on SNMP, Netconf)  
 
 5) Real-Time Embedded Systems  
 
