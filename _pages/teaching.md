@@ -9,7 +9,7 @@ nav_order: 6
 
 For now, I am teaching the following couses at DHBW Ravensburg in Germany 
 
-1) Communications systems design    
+1) Communication systems design    
   
 2) Mobile Communications
   
