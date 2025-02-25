@@ -9,7 +9,7 @@ nav_order: 6
 
 Currently, I am teaching the following courses at DHBW Ravensburg in Germany 
 
-1) Designe of communication systems     
+1) Design of communication systems     
   
 2) Mobile communications
   
