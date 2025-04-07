@@ -19,6 +19,6 @@ Currently, I am teaching the following courses at DHBW Ravensburg in Germany
 
 5) Real-Time Embedded Systems  
 
-6) Real-Time Operation Systems  
+6) Real-Time Operating Systems  
  
 
