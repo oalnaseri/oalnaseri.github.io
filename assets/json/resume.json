@@ -115,13 +115,14 @@
   ],
   "interests": [
     {
-      "name": "Optical Fiber Communications",
+      "name": "Optical Communications",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Coherent optical communications",
         "Laser Phase Noise",
-        "Fiber Nonlinearities",
-        "CO-OFDM"
+        "Nonlinearity effects",
+        "odulation formats such as QAM, OFDM, Index Modulation",
+		"DSP"
       ]
     },
 	{
@@ -129,7 +130,19 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "End-to-end learning algorithms",
-        "Autoencoder"
+        "Autoencoder",
+		"Uncertainty in machine learning algorithms"
+      ]
+    },
+	{
+      "name": "Quantum Optics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Entanglement",
+        "Quantum Satellite Communications",
+		"Quantum Machine Learning",
+		"Quantum Error Correction",
+		"Post-Quantum Cryptography"
       ]
     }
   ],
