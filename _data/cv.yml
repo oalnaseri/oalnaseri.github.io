@@ -65,13 +65,18 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Optical Fiber Communications
+    - title: Optical Communications
       items:
         - Coherent Optical Communications
-        - Laser Phase Noise
-        - Fiber Nonlinearities
-        - CO-OFDM
+        - Laser Phase Noise, Nonlinearities
+        - Modulation formats QAM, OFDM, Index Modulation
+        - DSP
+        - Quantum Satellite Communication
     - title: Deep Learning Algorithms
       items:
         - End-to-end learning algorithms
         - Autoencoder
+        - Uncertainty in Machine Learning
+    - title: Quantum Optics
+        - Quantum Machine Learning
+        - Quantum Error Correction
