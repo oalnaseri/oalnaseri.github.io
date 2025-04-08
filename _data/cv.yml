@@ -78,5 +78,6 @@
         - Autoencoder
         - Uncertainty in Machine Learning
     - title: Quantum Optics
+      items:
         - Quantum Machine Learning
         - Quantum Error Correction
