@@ -30,12 +30,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: System Architect
+    - title: Senior AI/Machine Learning Engineer, Automotive Sensing & Functions
       institution: ZF Friedrichshafen AG, Friedrichshafen, Germany
       year: 2018 - Now
       description:
-        - Design High-Performance ECU
+        - Design High-Performance Computing (HPC) 
         - Quantifying and Mitigating Uncertainty in ML Algorithms
+        - R&D of ML/AI Algorithms for automotive sensor fusion
     - title: Visiting Professor
       institution: DHBW Ravensburg University, Friedrichshafen, Germany
       year: 2019 - Now
