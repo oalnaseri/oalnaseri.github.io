@@ -82,3 +82,18 @@
       items:
         - Quantum Machine Learning
         - Quantum Error Correction
+      
+- title: Professional Services
+  type: nested_list
+  contents:
+    - title: a Reviewer for the following Journals 
+      items:
+        - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234">IEEE Communications Letters</a>
+        - <a href="https://www.sciencedirect.com/journal/measurement">Measurement Elsevier</a>
+        - <a href="https://www.sciencedirect.com/journal/optics-communications">Optics Communications Journal</a>
+        - <a href="https://www.sciencedirect.com/journal/physical-communication">Physical Communications Journal</a>
+    - title: Tutorial presentation and talk
+      items:
+        - <a href="https://fnwf2024.ieee.org/program/tutorials/end-end-autoencoder-learning-communication-systems-concept-architectures-and">End-to-End Autoencoder Learning for Communication Systems: Concept, Architectures, and Experiments</a> at IEEE future Networks World Forum (FNwF) 2024
+        - “Container-based Operating System Virtualization” at Frankfurt University of Applied Science, Frankfurt, 2020
+        
