@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected as a Reviewer for Prestigious Journal <a href="https://www.sciencedirect.com/journal/physical-communication">Physical Communications Journal</a>
+Selected as a Reviewer for Prestigious Journal <a href="https://www.sciencedirect.com/journal/physical-communication">Physical Communications Journal</a> and <a href="https://www.sciencedirect.com/journal/optics-communications">Optics Communications Journal</a>
