@@ -5,9 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new pre-print version of A Review on Deep Learning Autoencoder in the Design of Next-Generation Communication Systems is available in <a href="https://arxiv.org/abs/2412.13843"> 
-
-<audio controls>
-  <source src="assets.audio/Summary_AE.mp3" type="audio/mpeg">
-  A speech summary of the paper 
-</audio> 
+Omar Alnaseri, Laith Alzubaidi and Jens Timmermann, "Cyclic Shift Phase Rotation: An Innovative, Low-Complexity Technique for PAPR Reduction" Accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26">IEEE Transactions on Communications Journal.</a> 
