@@ -123,14 +123,19 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 ### Depolarizing channel
 
+
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {{'/assets/img/qcomme2e/constellations_depolarizing.png' | relative_url }}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {{'/assets/img/qcomme2e/bloch_spheres_depolarizing.png' | relative_url }}
-    </div>
+  <div class="col-sm-6 mt-3 mt-md-0">
+     {{ '/assets/img/qcomme2e/constellations_depolarizing.png' | relative_url }}="class="img-fluid rounded"
+      alt="Depolarizing constellation">
+  </div>
+
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {{ '/assets/img/qcomme2e/bloch_spheres_depolarizing.png' | relative_url }}="img-fluid rounded"
+      alt="Depolarizing Bloch sphere">
+  </div>
 </div>
+
 <div class="caption">
     Depolarizing channel. Isotropic noise contracts the constellation toward the origin
     and shrinks the Bloch vector uniformly toward the maximally mixed state.
@@ -155,7 +160,7 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {{'/assets/img/qcomme2e/constellations_bosonic.png"' | relative_url }}
+        {{'/assets/img/qcomme2e/constellations_bosonic.png' | relative_url }}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {{'/assets/img/qcomme2e/bloch_spheres_bosonic.png' | relative_url }}
