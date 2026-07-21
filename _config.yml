@@ -89,13 +89,6 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-github_username: oalnaseri
-linkedin_username: omar-alnaseri-69593322
-scholar_userid: vpj9CA4AAAAJ
-orcid_id: 0000-0002-7246-3974
 
 # Dimensions
 max_width: 930px
@@ -378,7 +371,7 @@ enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
