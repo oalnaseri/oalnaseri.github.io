@@ -2,14 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: The courses I taught.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Currently, I am teaching the following courses at DHBW Ravensburg in Germany
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+1. Design of communication systems
 
-{% include courses.liquid %}
+2. Mobile communications
+
+3. Network Architecture (including NGN, Core Networks)
+
+4. Network Managements (focusing on SNMP, Netconf)
+
+5. Real-Time Embedded Systems
+
+6. Real-Time Operating Systems
