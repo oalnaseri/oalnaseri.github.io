@@ -125,10 +125,10 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/constellations_depolarizing.png" title="Depolarizing — received constellation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/constellations_depolarizing.png" title="Depolarizing — received constellation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/bloch_spheres_depolarizing.png" title="Depolarizing — Bloch sphere" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/bloch_spheres_depolarizing.png" title="Depolarizing — Bloch sphere" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -140,10 +140,10 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/constellations_dephasing.png" title="Dephasing — received constellation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/constellations_dephasing.png" title="Dephasing — received constellation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/bloch_spheres_dephasing.png" title="Dephasing — Bloch sphere" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/bloch_spheres_dephasing.png" title="Dephasing — Bloch sphere" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -155,10 +155,10 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/constellations_bosonic.png" title="Bosonic — received constellation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/constellations_bosonic.png" title="Bosonic — received constellation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/bloch_spheres_bosonic.png" title="Bosonic — Bloch sphere" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/bloch_spheres_bosonic.png" title="Bosonic — Bloch sphere" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -170,10 +170,10 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/constellations_turbulence.png" title="Turbulence — received constellation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/constellations_turbulence.png" title="Turbulence — received constellation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/bloch_spheres_turbulence.png" title="Turbulence — Bloch sphere" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/bloch_spheres_turbulence.png" title="Turbulence — Bloch sphere" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -185,10 +185,10 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/constellations_pmd_static.png" title="PMD (static) — received constellation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/constellations_pmd_static.png" title="PMD (static) — received constellation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/qcomme2e/bloch_spheres_pmd_static.png" title="PMD (static) — Bloch sphere" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/qcomme2e/bloch_spheres_pmd_static.png" title="PMD (static) — Bloch sphere" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
