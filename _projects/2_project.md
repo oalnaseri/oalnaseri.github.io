@@ -123,7 +123,6 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 ### Depolarizing channel
 
-
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
      {{ '/assets/img/qcomme2e/constellations_depolarizing.png' | relative_url }}="class="img-fluid rounded"
