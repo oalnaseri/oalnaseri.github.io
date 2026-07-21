@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation" Accepted to <a href="[https://icc2025.ieee-icc.org/](https://ieeexplore.ieee.org/abstract/document/11443286)">IEEE Access.</a>
+"Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation" Accepted to <a href="https://ieeexplore.ieee.org/abstract/document/11443286">IEEE Access.</a>
