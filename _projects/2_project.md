@@ -19,7 +19,7 @@ assembled, inspected, and extended in one place.
 
 <div class="row justify-content-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {{'assets/img/qcomme2e/pipeline.png" title="QCommE2E end-to-end pipeline" class="img-fluid rounded z-depth-1" %}
+        {{'/assets/img/qcomme2e/pipeline.png' | relative_url }}
     </div>
 </div>
 <div class="caption">
@@ -185,10 +185,10 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {{'/assets/img/qcomme2e/constellations_pmd_static.png" title="PMD (static) — received constellation" class="img-fluid rounded z-depth-1" %}
+        {{'/assets/img/qcomme2e/constellations_pmd_static.png' | relative_url }}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {{'/assets/img/qcomme2e/bloch_spheres_pmd_static.png" title="PMD (static) — Bloch sphere" class="img-fluid rounded z-depth-1" %}
+        {{'/assets/img/qcomme2e/bloch_spheres_pmd_static.png' | relative_url }}
     </div>
 </div>
 <div class="caption">
