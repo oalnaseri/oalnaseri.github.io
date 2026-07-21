@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Deep Learning Autoencoders for Reducing PAPR in Coherent Optical Systems" Accepted to <a href="https://icc2025.ieee-icc.org/">IEEE International Conference on Communications (ICC) Montreal, Canada.</a> 
-
-
+"Deep Learning Autoencoders for Reducing PAPR in Coherent Optical Systems" Accepted to <a href="https://icc2025.ieee-icc.org/">IEEE International Conference on Communications (ICC) Montreal, Canada.</a>

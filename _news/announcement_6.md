@@ -8,6 +8,7 @@ related_posts: false
 A review study titled <a href="https://arxiv.org/abs/2412.13843"> A Review on Deep Learning Autoencoder in the Design of Next-Generation Communication Systems</a> accepted to <a href="https://ieeexplore.ieee.org/abstract/document/11480824">IEEE Open Journal of the Communications Society.</a>  
  <br> <br>
 <audio controls>
+
   <source src="assets/audio/Summary_AE.mp3" type="audio/mpeg">
   A speech summary of the paper 
-</audio> 
+</audio>

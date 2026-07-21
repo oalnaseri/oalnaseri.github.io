@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Peer-Reviewer for Prestigious Journals such as IEEE Transactions on Communications, IEEE Communications Letters, IEEE Communications Magazine, Elsevier Measurements, Elsevier Neural Networks, Elsevier ICT Express. 
+Peer-Reviewer for Prestigious Journals such as IEEE Transactions on Communications, IEEE Communications Letters, IEEE Communications Magazine, Elsevier Measurements, Elsevier Neural Networks, Elsevier ICT Express.

@@ -25,7 +25,7 @@
       institution: University of Technology, Bagdad, Iraq
       year: 2000
       description:
-        - Graduate Project Title - Design of Microstrip Antenna 
+        - Graduate Project Title - Design of Microstrip Antenna
 
 - title: Experience
   type: time_table
@@ -34,7 +34,7 @@
       institution: ZF Friedrichshafen AG, Friedrichshafen, Germany
       year: 2018 - Now
       description:
-        - Design High-Performance Computing (HPC) 
+        - Design High-Performance Computing (HPC)
         - Quantifying and Mitigating Uncertainty in ML Algorithms
         - R&D of ML/AI Algorithms for automotive sensor fusion
     - title: Visiting Professor
@@ -58,7 +58,7 @@
   contents:
     - year: 2009
       items:
-        - DAAD Scholarship 
+        - DAAD Scholarship
     - year: 2000
       items:
         - ranked 3th out of 87 B.Sc. graduated student at Faculty of Electrical Engineering/University of Technology
@@ -82,11 +82,11 @@
       items:
         - Quantum Machine Learning
         - Quantum Error Correction
-      
+
 - title: Professional Services
   type: nested_list
   contents:
-    - title: a Reviewer for the following Journals 
+    - title: a Reviewer for the following Journals
       items:
         - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234">IEEE Communications Letters</a>
         - <a href="https://www.sciencedirect.com/journal/measurement">Measurement Elsevier</a>
@@ -96,4 +96,3 @@
       items:
         - <a href="https://fnwf2024.ieee.org/program/tutorials/end-end-autoencoder-learning-communication-systems-concept-architectures-and"> End-to-End Autoencoder Learning for Communication Systems, Concept, Architectures, and Experiments</a> at IEEE future Networks World Forum (FNwF) 2024
         - “Container-based Operating System Virtualization” at Frankfurt University of Applied Science, Frankfurt, 2020
-        

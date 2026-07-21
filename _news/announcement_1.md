@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper entitled "Cyclic Shift Phase Rotation: An Innovative, Low-Complexity Technique for PAPR Reduction" Accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26">IEEE Transactions on Communications Journal.</a> 
+A paper entitled "Cyclic Shift Phase Rotation: An Innovative, Low-Complexity Technique for PAPR Reduction" Accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26">IEEE Transactions on Communications Journal.</a>

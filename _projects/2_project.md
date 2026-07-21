@@ -44,7 +44,7 @@ attenuation and turbulence are more naturally written in **bosonic** or
 QCommE2E resolves this with two design goals held simultaneously:
 
 - **Mathematical interpretability** — each stage maps to an explicit equation.
-- **Executability** — heterogeneous channels run inside a *common* simulation loop
+- **Executability** — heterogeneous channels run inside a _common_ simulation loop
   through a shared density-matrix ($$\rho$$) interface.
 
 The result is a reusable environment rather than a one-off benchmark script — spanning
@@ -77,7 +77,7 @@ maps textbook quantum-information channels **and** reduced optical-fiber / free-
 surrogates into **one** executable comparison. It uses:
 
 - a **square 16-QAM** symbol embedding,
-- a **pretty-good measurement (PGM)** detector built from the *same* reference-state
+- a **pretty-good measurement (PGM)** detector built from the _same_ reference-state
   codebook used at the transmitter (a matched receiver), and
 - **BER / SER** as the headline performance metrics,
 
@@ -89,14 +89,14 @@ and **Bloch-sphere** representations for qualitative inspection.
 Each channel is a CPTP map $$\mathcal{E}(\rho)$$ acting on the transmitted density
 matrix $$\rho$$:
 
-| Channel | Map / model | Physical meaning |
-| :-- | :-- | :-- |
-| **Depolarizing** | $$\mathcal{E}(\rho) = (1-p)\rho + p\,\tfrac{I}{d}$$ | Isotropic mixing toward the maximally mixed state |
-| **Dephasing** | $$\mathcal{E}(\rho) = (1-p)\rho + p\,Z\rho Z$$ | Loss of phase coherence (off-diagonal decay) |
-| **Erasure** | $$\mathcal{E}(\rho) = (1-p)\rho + p\,\lvert e\rangle\!\langle e\rvert$$ | Symbol flagged/lost with probability $$p$$ |
-| **Bosonic (Gaussian)** | Thermal-loss channel, transmissivity $$\eta$$, noise $$\bar n$$ | Optical attenuation + added noise |
-| **Turbulence (FSO)** | Málaga / Kolmogorov fading of the transmissivity | Free-space atmospheric scintillation |
-| **PMD** | Random birefringent rotation of the polarization state | Fiber polarization-mode dispersion |
+| Channel                | Map / model                                                             | Physical meaning                                  |
+| :--------------------- | :---------------------------------------------------------------------- | :------------------------------------------------ |
+| **Depolarizing**       | $$\mathcal{E}(\rho) = (1-p)\rho + p\,\tfrac{I}{d}$$                     | Isotropic mixing toward the maximally mixed state |
+| **Dephasing**          | $$\mathcal{E}(\rho) = (1-p)\rho + p\,Z\rho Z$$                          | Loss of phase coherence (off-diagonal decay)      |
+| **Erasure**            | $$\mathcal{E}(\rho) = (1-p)\rho + p\,\lvert e\rangle\!\langle e\rvert$$ | Symbol flagged/lost with probability $$p$$        |
+| **Bosonic (Gaussian)** | Thermal-loss channel, transmissivity $$\eta$$, noise $$\bar n$$         | Optical attenuation + added noise                 |
+| **Turbulence (FSO)**   | Málaga / Kolmogorov fading of the transmissivity                        | Free-space atmospheric scintillation              |
+| **PMD**                | Random birefringent rotation of the polarization state                  | Fiber polarization-mode dispersion                |
 
 ### Matched detection (pretty-good measurement)
 
@@ -197,7 +197,6 @@ the Bloch sphere visualizes how pure input states are driven toward mixed states
     contracting its length.
 </div>
 
-
 ## Getting started
 
 ```bash
@@ -241,11 +240,11 @@ and broader **system-level** algorithm integration on top of the same E2E loop.
 
 If you use QCommE2E, please cite:
 
-- **O. Alnaseri**, *QCommE2E: An Open-Source Simulation of End-to-End Quantum
-  Communication Systems*, arXiv:2605.24723 (2026).
+- **O. Alnaseri**, _QCommE2E: An Open-Source Simulation of End-to-End Quantum
+  Communication Systems_, arXiv:2605.24723 (2026).
   [arXiv](https://arxiv.org/abs/2605.24723)
 - **O. Alnaseri**, Y. Himeur, S. Titouni, J. Timmermann, S. Atalla,
-  *Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation*,
+  _Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation_,
   IEEE Access, vol. 14, pp. 46943–46952, 2026.
   [DOI:10.1109/ACCESS.2026.3675938](https://doi.org/10.1109/ACCESS.2026.3675938)
 
