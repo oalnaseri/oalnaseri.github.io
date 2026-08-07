@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   vpj9CA4AAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -23,7 +23,7 @@ papers:
     year: '2026'
   vpj9CA4AAAAJ:738O_yMBCRsC:
     citations: 2
-    title: 'Connect-4 AI: A Comprehensive Taxonomy and Critical Review of Methods and Metrics'
+    title: 'Connect-4 ai: A comprehensive taxonomy and critical review of methods and metrics'
     year: '2026'
   vpj9CA4AAAAJ:8AbLer7MMksC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: 'QCommE2E: An Open-Source Simulation of End-to-End Quantum Communication Systems'
     year: '2026'
   vpj9CA4AAAAJ:CHSYGLWDkRkC:
-    citations: 3
+    citations: 4
     title: Leveraging autoencoder for laser phase noise compensation in coherent optical ofdm systems
     year: '2025'
   vpj9CA4AAAAJ:EUQCXRtRnyEC:
@@ -62,7 +62,7 @@ papers:
     title: 'Enhancing stability and efficiency in mobile ad hoc networks (MANETs): A multicriteria algorithm for optimal multipoint relay selection'
     year: '2024'
   vpj9CA4AAAAJ:P5F9QuxV20EC:
-    citations: 14
+    citations: 16
     title: Complexity of post-quantum cryptography in embedded systems and its optimization strategies
     year: '2025'
   vpj9CA4AAAAJ:SP6oXDckpogC:
@@ -74,7 +74,7 @@ papers:
     title: ICT Express
     year: Unknown Year
   vpj9CA4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 13
+    citations: 14
     title: Phase noise robustness of SIM-OFDM in CO-OFDM transmission
     year: '2012'
   vpj9CA4AAAAJ:UeHWp8X0CEIC:
@@ -113,10 +113,6 @@ papers:
     citations: 1
     title: A low complexity and high accuracy frame synchronization for PolMux-Optical OFDM
     year: '2012'
-  vpj9CA4AAAAJ:abG-DnoFyZgC:
-    citations: 5
-    title: Papr reduction based on deep learning autoencoder in coherent optical ofdm systems
-    year: '2024'
   vpj9CA4AAAAJ:bFI3QPDXJZMC:
     citations: 7
     title: An experiment of subband spectral shaping in dft-spread co-ofdm systems
@@ -130,7 +126,7 @@ papers:
     title: Real-time synchronous 16-QAM optical transmission system using blind phase search and QPSK partitioning carrier recovery techniques
     year: '2012'
   vpj9CA4AAAAJ:dshw04ExmUIC:
-    citations: 5
+    citations: 9
     title: Deep learning autoencoders for reducing papr in coherent optical systems
     year: '2025'
   vpj9CA4AAAAJ:eQOLeE2rZwMC:
@@ -143,7 +139,7 @@ papers:
     year: '2026'
   vpj9CA4AAAAJ:nb7KW1ujOQ8C:
     citations: 7
-    title: Hybrid CNN-Ensemble Framework for Intelligent Optical Fiber Fault Detection and Diagnosis
+    title: Hybrid cnn-ensemble framework for intelligent optical fiber fault detection and diagnosis
     year: '2025'
   vpj9CA4AAAAJ:qjMakFHDy7sC:
     citations: 1
