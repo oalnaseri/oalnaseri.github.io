@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-19'
 papers:
   vpj9CA4AAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: Federated large language models for wireless networks
     year: '2025'
   vpj9CA4AAAAJ:NhqRSupF_l8C:
-    citations: 12
+    citations: 13
     title: 'Enhancing stability and efficiency in mobile ad hoc networks (MANETs): A multicriteria algorithm for optimal multipoint relay selection'
     year: '2024'
   vpj9CA4AAAAJ:P5F9QuxV20EC:
@@ -126,7 +126,7 @@ papers:
     title: Real-time synchronous 16-QAM optical transmission system using blind phase search and QPSK partitioning carrier recovery techniques
     year: '2012'
   vpj9CA4AAAAJ:dshw04ExmUIC:
-    citations: 9
+    citations: 10
     title: Deep learning autoencoders for reducing papr in coherent optical systems
     year: '2025'
   vpj9CA4AAAAJ:eQOLeE2rZwMC:
@@ -134,7 +134,7 @@ papers:
     title: ISI Tolerance of Cyclic Prefix Free Coherent Optical OFDM Communication systems
     year: '2013'
   vpj9CA4AAAAJ:l7t_Zn2s7bgC:
-    citations: 1
+    citations: 2
     title: Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation
     year: '2026'
   vpj9CA4AAAAJ:nb7KW1ujOQ8C:
