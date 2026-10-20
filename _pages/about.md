@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Optical Communication and High Frequency Engineering
+subtitle: Ph.D. in Optical Communication and High Frequency Engineering from University of Paderborn, Germany
 
 profile:
   align: right
